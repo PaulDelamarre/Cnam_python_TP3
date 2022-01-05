@@ -1,0 +1,6 @@
+Dorard,Richard,14,admis
+Alex,Ly,15,admis
+Paul,Delamarre,12,admis
+David,Besson,12,admis
+Aurélie,Estraillier,10,ajourné
+Romain,Gaborit,18,admis
